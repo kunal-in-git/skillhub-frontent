@@ -76,7 +76,7 @@ function Navigationbar() {
           }}
         >
           <NavLink to="/Home" style={{textDecoration:'none', color:'white', fontSize:'25px', fontWeight:'bolder'}}>
-            SIKLL HUB
+            SKILL HUB
           </NavLink>
         </div>
         <div
