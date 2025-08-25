@@ -136,12 +136,12 @@ function Navigationbar() {
           >
             <NavLink to="/Login" style={{ textDecoration: "none" }}>
               <button style={{ padding: "10%" }}>
-                Login
+                Sign In
               </button>
             </NavLink>
             <NavLink style={{ textDecoration: "none" }} to="/SignUp">
               <button style={{ padding: "10%", width: '150%' }}>
-                Sign In
+                Sign Up
               </button>
             </NavLink>
           </div>
